@@ -1,0 +1,50 @@
+body {
+	background-color: lightblue;
+}
+
+img{
+	border-radius: 15px;
+	opacity: 0.8;
+	width: 69%;
+}
+
+.wrapper{
+	margin: 3%;
+	padding: 3px;
+}
+
+.row{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #9B6E1F;
+    font-family: Arial;
+    width: 380px;
+    margin: auto;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+
+.navbar a:hover {
+    background-color: red;
+    border-radius: 5px;
+}
+
+
+

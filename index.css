@@ -1,0 +1,37 @@
+body {
+	background-color: #837C70;
+}
+
+img{
+	width: 40%;
+	opacity: 0.7;
+}
+
+.wrapper {
+	padding: 1%;
+	margin: 2%;
+}
+
+.content {
+	align-items: center;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	color: #F7B84A;
+}
+
+h2{
+	color: #31281A;
+}
+
+
+form {
+	margin: auto;
+	width: 30%;
+	min-width: 250px;
+	background-color: #BBBABD;
+	border-radius: 15px;
+	padding: 20px;
+}
